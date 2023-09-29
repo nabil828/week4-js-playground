@@ -1,0 +1,135 @@
+- JS Introduction
+
+- JS Output
+  - `window.alert()`.
+  - `console.log()`
+  
+- JS Statements
+  - Program
+  - Statement
+  - Semicolons ;
+  - Whitespace
+  - Blocks
+  - Keywords
+  
+- JS Syntax
+  - Variables vs. Literals:
+  - Operators
+  - Comments
+  - Identifiers
+    - Case Sensitive
+    - CamelCase 
+    
+- JS Comments
+
+- JS Variables
+    - let, var, const
+    
+- JS Operators
+  - Arithmetic Operators
+  - Assignment Operators
+  - Comparison Operators
+  - String Operators
+  - Logical Operators
+  - Bitwise Operators
+  - Ternary Operators
+  - Type Operators
+  
+- JS Arithmetic
+  - Exponentiation
+  - Operator Precedence
+  
+- JS Assignment
+    - `=` 
+    - `+=`
+    - `-=`
+    - `*=`
+    - `/=`
+    - `%=`
+    - `**=`	
+    
+- JS Data Types
+  - String
+  - Number
+  - Bigint
+  - Boolean
+  - Undefined
+  - Null
+  - An object
+  - An array
+  - A date
+
+- JS Functions
+  - Syntax
+  - Invocation
+  - Return
+
+- JS Objects
+  - Properties
+  - Methods
+  
+- JS Strings
+  - String Length
+  - Escape Character
+  - Escape sequences 
+    - \b	Backspace
+    - \f	Form Feed
+    - \n	New Line
+    - \r	Carriage Return
+    - \t	Horizontal Tabulator
+    - \v	Vertical Tabulator
+    
+- JS String Methods
+  - String length
+  - String slice()
+  - String substring()
+  - String substr()
+  - String replace()
+  - String replaceAll()
+  - String toUpperCase()
+  - String toLowerCase()
+  - String concat()
+  - String trim()
+  - String trimStart()
+  - String trimEnd()
+  - String padStart()
+  - String padEnd()
+  - String charAt()
+  - String charCodeAt()
+  - String split()
+
+- JS String Templates
+
+- JS Arrays
+  - Creating an Array
+  - Accessing Array Elements
+  - Changing an Array Element
+
+- JS Array Methods
+  - Array length
+  - Array toString()
+  - Array pop()
+  - Array push()
+  - Array shift()
+  - Array unshift()
+  
+- JS Math
+  - Math Methods
+    - round
+    - ceil
+    - floor
+    - trunc
+
+- JS Random
+
+- JS Comparisons
+
+- JS If Else
+
+- JS Switch
+
+- JS Loop For
+
+- JS Loop While
+
+- JS Break and continue
