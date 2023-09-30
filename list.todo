@@ -1,83 +1,83 @@
-- JS Introduction
+- JS Introduction @done
 
-- JS Output
-  - `window.alert()`.
-  - `console.log()`
+- JS Output @done
+  - `window.alert()`. @done
+  - `console.log()` @done
   
-- JS Statements
-  - Program
-  - Statement
-  - Semicolons ;
-  - Whitespace
-  - Blocks
-  - Keywords
+- JS Statements @done
+  - Program @done
+  - Statement @done
+  - Semicolons ; @done
+  - Whitespace @done
+  - Blocks @done
+  - Keywords @done
   
-- JS Syntax
-  - Variables vs. Literals:
-  - Operators
-  - Comments
-  - Identifiers
-    - Case Sensitive
-    - CamelCase 
+- JS Syntax @done
+  - Variables vs. Literals: @done
+  - Operators @done
+  - Comments @done
+  - Identifiers @done
+    - Case Sensitive @done
+    - CamelCase @done
     
-- JS Comments
+- JS Comments @done
 
-- JS Variables
-    - let, var, const
+- JS Variables @done
+    - let, var, const @done
     
 - JS Operators
-  - Arithmetic Operators
-  - Assignment Operators
-  - Comparison Operators
-  - String Operators
-  - Logical Operators
+  - Arithmetic Operators @done
+  - Assignment Operators @done
+  - Comparison Operators @done
+  - String Operators @done
+  - Logical Operators @done
   - Bitwise Operators
   - Ternary Operators
   - Type Operators
   
-- JS Arithmetic
-  - Exponentiation
-  - Operator Precedence
+- JS Arithmetic @done
+  - Exponentiation @done
+  - Operator Precedence @done
   
-- JS Assignment
-    - `=` 
-    - `+=`
-    - `-=`
-    - `*=`
-    - `/=`
-    - `%=`
-    - `**=`	
+- JS Assignment @done
+    - `=` @done
+    - `+=` @done
+    - `-=` @done
+    - `*=` @done
+    - `/=` @done
+    - `%=` @done
+    - `**=`	 @done
     
-- JS Data Types
-  - String
-  - Number
-  - Bigint
-  - Boolean
-  - Undefined
-  - Null
-  - An object
-  - An array
-  - A date
+- JS Data Types @done
+  - String @done
+  - Number @done
+  - Bigint @done
+  - Boolean @done
+  - Undefined @done
+  - Null @done
+  - An object @done
+  - An array @done
+  - A date @done
 
-- JS Functions
-  - Syntax
-  - Invocation
-  - Return
+- JS Functions @done
+  - Syntax @done
+  - Invocation @done
+  - Return @done
 
-- JS Objects
-  - Properties
-  - Methods
+- JS Objects @done
+  - Properties @done
+  - Methods @done
   
-- JS Strings
-  - String Length
-  - Escape Character
-  - Escape sequences 
-    - \b	Backspace
-    - \f	Form Feed
-    - \n	New Line
-    - \r	Carriage Return
-    - \t	Horizontal Tabulator
-    - \v	Vertical Tabulator
+- JS Strings @done
+  - String Length @done
+  - Escape Character @done
+  - Escape sequences @done
+    - \b	Backspace @done
+    - \f	Form Feed @done
+    - \n	New Line @done
+    - \r	Carriage Return @done
+    - \t	Horizontal Tabulator @done
+    - \v	Vertical Tabulator @done
     
 - JS String Methods
   - String length
@@ -98,7 +98,7 @@
   - String charCodeAt()
   - String split()
 
-- JS String Templates
+- JS String Templates @done
 
 - JS Arrays
   - Creating an Array
